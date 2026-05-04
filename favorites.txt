@@ -1,3 +1,9 @@
+Мій улюблений колір — зелений.
 Pizza, Sushi, Pasta
+<<<<<<< HEAD
 Мій улюблений колір - блакитний
 ❤---(о_о)
+=======
+Venom, Scream, Pirates of the Caribbean
+
+>>>>>>> 63b3166ae42b1572dfc13735a9b7499f660ae482
